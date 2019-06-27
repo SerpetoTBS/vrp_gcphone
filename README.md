@@ -12,8 +12,9 @@ mysql-async
 
 Подредете скриптовете в този ред:
 
-start gcphone
-start vrp_addons_gcphone
+`start gcphone
+
+start vrp_addons_gcphone`
 
 Пуснете сървъра.
 
